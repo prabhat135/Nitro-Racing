@@ -29,6 +29,7 @@ Welcome to the Car Racing Game! This is a simple racing game built using HTML, C
 ## Contribution
 
 This game was created by [Prabhat Jain] as a personal project. Feel free to modify and improve upon the game as you like. Have fun racing!
+
 If you would like to contribute to this project, please submit a pull request or open an issue to discuss any proposed changes.
 
 ## Link to this webpage: https://nitroracing-prabhat.netlify.app/
